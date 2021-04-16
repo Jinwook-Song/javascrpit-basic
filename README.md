@@ -7,3 +7,4 @@
 - [x] object
 - [x] array
 - [x] array api
+- [x] json
